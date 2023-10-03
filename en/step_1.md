@@ -1,59 +1,27 @@
-## Introduction
+To let other people access your project, you can share your project's unique web address.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+At the top right of MakeCode is the menu bar.
 
-### What you will make
+![The MakeCode menu bar showing the share button highlighted](images/topmenu.png)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click on the share button.
+ 
+![The share button](images/sharebutton.png) 
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+This will open the project window.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The Share Project window with the Share Project button displayed](images/shareprojectwindow.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+If you have not already named your project, you can do that now.
 
-+ A computer or tablet capable of running Scratch 3
+Click the Share Project button.
 
-### Software
+![The Share Project window with the Share Project button displayed](images/shareprojectbutton.png)
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+This will create a new version of your project and a link to it.
 
-### Downloads
+![The Share Project window with the Share Project button displayed](images/sharelink.png)
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+Click **Copy** and then paste the link into a message, or write down the link to give to the person you want to share the project with.
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** 💡 People who open this link will get their own version of your project. They will not be able to change your version.
