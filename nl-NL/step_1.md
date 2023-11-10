@@ -1,27 +1,27 @@
-To let other people access your project, you can share your project's unique web address.
+Om andere mensen toegang te geven tot je project, kun je het unieke webadres van je project delen.
 
-At the top right of MakeCode is the menu bar.
+Aan de rechterbovenkant van MakeCode is de menubalk.
 
-![The MakeCode menu bar showing the share button highlighted](images/topmenu.png)
+![De MakeCode-menubalk met de deelknop gemarkeerd](images/topmenu.png)
 
-Click on the share button.
+Klik op de knop delen.
 
-![The share button](images/sharebutton.png)
+![De knop 'Delen'](images/sharebutton.png)
 
-This will open the project window.
+Hierdoor wordt het projectvenster geopend.
 
-![The Share Project window with the Share Project button displayed](images/shareprojectwindow.png)
+![Het venster Project delen met de knop 'Project delen' weergegeven](images/shareprojectwindow.png)
 
-If you have not already named your project, you can do that now.
+Als je jouw project nog geen naam hebt gegeven, kun je dat nu doen.
 
-Click the Share Project button.
+Klik op de knop Project delen.
 
-![The Share Project window with the Share Project button displayed](images/shareprojectbutton.png)
+![Het venster Project delen met de knop 'Project delen' weergegeven](images/shareprojectbutton.png)
 
-This will create a new version of your project and a link to it.
+Hierdoor wordt een nieuwe versie van jouw project gemaakt en een link ernaartoe.
 
-![The Share Project window with the Share Project button displayed](images/sharelink.png)
+![Het venster Project delen met de knop 'Project delen' weergegeven](images/sharelink.png)
 
-Click **Copy** and then paste the link into a message, or write down the link to give to the person you want to share the project with.
+Klik op **Kopiëren** en plak vervolgens de link in een bericht, of schrijf de link op en geef hem aan de persoon waarmee je het project wilt delen.
 
-**Tip:** 💡 People who open this link will get their own version of your project. They will not be able to change your version.
+**Tip:** 💡 Mensen die deze link openen krijgen hun eigen versie van je project. Ze kunnen jouw versie niet wijzigen.
