@@ -1,26 +1,26 @@
 Om andere mensen toegang te geven tot je project, kun je het unieke webadres van je project delen.
 
-Aan de rechterbovenkant van MakeCode is de menubalk.
+At the top right of MakeCode there is the menu bar.
 
-![De MakeCode-menubalk met de deelknop gemarkeerd](images/topmenu.png)
+![The MakeCode menu bar with the share button highlighted.](images/topmenu.png)
 
 Klik op de knop delen.
 
-![De knop 'Delen'](images/sharebutton.png)
+![The share button.](images/sharebutton.png)
 
 Hierdoor wordt het projectvenster geopend.
 
-![Het venster Project delen met de knop 'Project delen' weergegeven](images/shareprojectwindow.png)
+![The Share Project window with the Share Project button displayed.](images/shareprojectwindow.png)
 
 Als je jouw project nog geen naam hebt gegeven, kun je dat nu doen.
 
-Klik op de knop Project delen.
+Click the **Share Project** button.
 
-![Het venster Project delen met de knop 'Project delen' weergegeven](images/shareprojectbutton.png)
+![The Share Project button.](images/shareprojectbutton.png)
 
 Hierdoor wordt een nieuwe versie van jouw project gemaakt en een link ernaartoe.
 
-![Het venster Project delen met de knop 'Project delen' weergegeven](images/sharelink.png)
+![The Share Project window with the link address displayed.](images/sharelink.png)
 
 Klik op **Kopiëren** en plak vervolgens de link in een bericht, of schrijf de link op en geef hem aan de persoon waarmee je het project wilt delen.
 
