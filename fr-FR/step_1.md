@@ -1,27 +1,27 @@
-To let other people access your project, you can share your project's unique web address.
+Pour permettre à d'autres personnes d'accéder à ton projet, tu peux partager l'adresse Web unique de ton projet.
 
-At the top right of MakeCode there is the menu bar.
+En haut à droite de MakeCode, il y a la barre de menus.
 
-![The MakeCode menu bar with the share button highlighted.](images/topmenu.png)
+![La barre de menu MakeCode avec le bouton de partage en surbrillance.](images/topmenu.png)
 
-Click on the share button.
+Clique sur le bouton Partager.
 
-![The share button.](images/sharebutton.png)
+![Le bouton Partager.](images/sharebutton.png)
 
-This will open the project window.
+Cela ouvrira la fenêtre du projet.
 
-![The Share Project window with the Share Project button displayed.](images/shareprojectwindow.png)
+![La fenêtre Partager le projet avec le bouton Partager le projet affiché.](images/shareprojectwindow.png)
 
-If you have not already named your project, you can do that now.
+Si tu n'as pas encore nommé ton projet, tu peux le faire maintenant.
 
-Click the **Share Project** button.
+Clique sur le bouton **Partager le projet**.
 
-![The Share Project button.](images/shareprojectbutton.png)
+![Le bouton Partager le projet.](images/shareprojectbutton.png)
 
-This will create a new version of your project and a link to it.
+Cela créera une nouvelle version de ton projet et un lien vers celui-ci.
 
-![The Share Project window with the link address displayed.](images/sharelink.png)
+![La fenêtre Partager le projet avec l'adresse du lien affichée.](images/sharelink.png)
 
-Click **Copy** and then paste the link into a message, or write down the link to give to the person you want to share the project with.
+Clique sur **Copier** puis colle le lien dans un message, ou note le lien à donner à la personne avec qui tu souhaites partager le projet.
 
-**Tip:** 💡 People who open this link will get their own version of your project. They will not be able to change your version.
+**Astuce :** 💡 Les personnes qui ouvriront ce lien obtiendront leur propre version de ton projet. Ils ne pourront pas changer ta version.
