@@ -1,27 +1,27 @@
-To let other people access your project, you can share your project's unique web address.
+I adael i bobl eraill gael mynediad i'ch prosiect, gallwch rannu cyfeiriad gwe unigryw eich prosiect.
 
-At the top right of MakeCode there is the menu bar.
+Ar ochr dde uchaf MakeCode mae'r bar dewislen.
 
-![The MakeCode menu bar with the share button highlighted.](images/topmenu.png)
+![Mae'r bar dewislen MakeCode gyda'r botwm rhannu wedi'i amlygu.](images/topmenu.png)
 
-Click on the share button.
- 
-![The share button.](images/sharebutton.png) 
+Cliciwch ar y botwm rhannu.
 
-This will open the project window.
+![Y botwm Rhannu.](images/sharebutton.png)
 
-![The Share Project window with the Share Project button displayed.](images/shareprojectwindow.png)
+Bydd hyn yn agor ffenestr y prosiect.
 
-If you have not already named your project, you can do that now.
+![Mae ffenestr y Prosiect Rhannu gyda'r botwm Rhannu Prosiect yn cael ei arddangos.](images/shareprojectwindow.png)
 
-Click the **Share Project** button.
+Os nad ydych wedi enwi eich prosiect eisoes, gallwch wneud hynny nawr.
 
-![The Share Project button.](images/shareprojectbutton.png)
+Cliciwch ar y botwm **Rhannu Prosiect**.
 
-This will create a new version of your project and a link to it.
+![Y botwm Rhannu Prosiect.](images/shareprojectbutton.png)
 
-![The Share Project window with the link address displayed.](images/sharelink.png)
+Bydd hyn yn creu fersiwn newydd o'ch prosiect a dolen iddo.
 
-Click **Copy** and then paste the link into a message, or write down the link to give to the person you want to share the project with.
+![Ffenestr y Prosiect Rhannu gyda'r cyfeiriad cyswllt wedi'i ddangos.](images/sharelink.png)
 
-**Tip:** 💡 People who open this link will get their own version of your project. They will not be able to change your version.
+Cliciwch **Copi** ac yna gludwch y ddolen i mewn i neges, neu ysgrifennwch y ddolen i'w rhoi i'r person rydych chi am rannu'r prosiect ag ef.
+
+**Awgrym:** 💡 Bydd pobl sy'n agor y ddolen hon yn cael eu fersiwn eu hunain o'ch prosiect. Ni fyddant yn gallu newid eich fersiwn.
