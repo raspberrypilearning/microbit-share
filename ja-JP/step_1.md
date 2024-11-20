@@ -1,27 +1,27 @@
-To let other people access your project, you can share your project's unique web address.
+他のユーザーがプロジェクトにアクセスできるようにするため、プロジェクトの Web アドレスを共有できます。
 
-At the top right of MakeCode there is the menu bar.
+MakeCode の右上にはメニューバーがあります。
 
-![The MakeCode menu bar with the share button highlighted.](images/topmenu.png)
+![共有ボタンが強調表示された MakeCode メニュー バー。](images/topmenu.png)
 
-Click on the share button.
+共有ボタンをクリックします。
 
-![The share button.](images/sharebutton.png)
+![共有ボタン。](images/sharebutton.png)
 
-This will open the project window.
+プロジェクト ウィンドウが開きます。
 
-![The Share Project window with the Share Project button displayed.](images/shareprojectwindow.png)
+![「プロジェクトの共有」ボタンが表示された「プロジェクトの共有」ウィンドウ。](images/shareprojectwindow.png)
 
-If you have not already named your project, you can do that now.
+プロジェクトにまだ名前を付けていない場合は、ここで名前を付けることができます。
 
-Click the **Share Project** button.
+**プロジェクトを共有** ボタンをクリックします。
 
-![The Share Project button.](images/shareprojectbutton.png)
+![プロジェクトの共有ボタン。](images/shareprojectbutton.png)
 
-This will create a new version of your project and a link to it.
+これにより、プロジェクトの新しいバージョンとリンクが作成されます。
 
-![The Share Project window with the link address displayed.](images/sharelink.png)
+![リンク アドレスが表示されたプロジェクトの共有ウィンドウ。](images/sharelink.png)
 
-Click **Copy** and then paste the link into a message, or write down the link to give to the person you want to share the project with.
+**コピー** をクリックし、リンクをメッセージに貼り付けるか、リンクを書き留めてプロジェクトを共有したい相手に渡します。
 
-**Tip:** 💡 People who open this link will get their own version of your project. They will not be able to change your version.
+**ヒント:** 💡 このリンクを開いた人は、自分のプロジェクトのバージョンを取得します。 あなたのバージョンを変更することはできません。
