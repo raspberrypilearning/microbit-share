@@ -1,27 +1,27 @@
-To let other people access your project, you can share your project's unique web address.
+Para que otras personas puedan acceder a tu proyecto, puedes compartir la dirección web única de tu proyecto.
 
-At the top right of MakeCode there is the menu bar.
+En la parte superior derecha de MakeCode se encuentra la barra del menú.
 
-![The MakeCode menu bar with the share button highlighted.](images/topmenu.png)
+![La barra del menú de MakeCode con el botón de compartir resaltado.](images/topmenu.png)
 
-Click on the share button.
+Click en el botón compartir.
 
-![The share button.](images/sharebutton.png)
+![El botón de compartir.](images/sharebutton.png)
 
-This will open the project window.
+Esto abrirá la ventana del proyecto.
 
-![The Share Project window with the Share Project button displayed.](images/shareprojectwindow.png)
+![Se muestra la ventana "Compartir proyecto" con el botón "Compartir proyecto".](images/shareprojectwindow.png)
 
-If you have not already named your project, you can do that now.
+Si aún no le has puesto nombre a tu proyecto, puedes hacerlo ahora.
 
-Click the **Share Project** button.
+Da click en el boton **Nuevo Proyecto**.
 
-![The Share Project button.](images/shareprojectbutton.png)
+![El botón de compartir proyecto.](images/shareprojectbutton.png)
 
-This will create a new version of your project and a link to it.
+Esto creará una nueva versión de tu proyecto y un enlace a él.
 
-![The Share Project window with the link address displayed.](images/sharelink.png)
+![Se muestra la ventana "Compartir proyecto" con la dirección del enlace.](images/sharelink.png)
 
-Click **Copy** and then paste the link into a message, or write down the link to give to the person you want to share the project with.
+Da clic en **Copiar** y luego pega el enlace en un mensaje, o escribe el enlace para dar a la persona con la que deseas compartir el proyecto.
 
-**Tip:** 💡 People who open this link will get their own version of your project. They will not be able to change your version.
+**Consejo:** 💡 Las personas que abran este enlace obtendrán su propia versión de tu proyecto. Ellos no podrán alterar tu versión.
